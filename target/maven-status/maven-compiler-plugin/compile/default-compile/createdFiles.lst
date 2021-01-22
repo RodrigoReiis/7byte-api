@@ -1,0 +1,6 @@
+sevenbyte/sevenbyte_project/entities/Produtos.class
+sevenbyte/sevenbyte_project/BootDataMongodbApplication.class
+sevenbyte/sevenbyte_project/App.class
+sevenbyte/sevenbyte_project/controllers/ProdutosController.class
+sevenbyte/sevenbyte_project/repository/ProdutosRepository.class
+sevenbyte/sevenbyte_project/services/ProdutosService.class
