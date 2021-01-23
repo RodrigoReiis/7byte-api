@@ -1,12 +1,11 @@
 package sevenbyte.sevenbyte_project.repository;
 
-import org.bson.types.ObjectId;
-import org.springframework.data.mongodb.repository.MongoRepository;
+import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import sevenbyte.sevenbyte_project.entities.Produtos;
+import sevenbyte.sevenbyte_project.entities.Products;
 
 @Repository
-public interface ProdutosRepository extends MongoRepository<Produtos, ObjectId>{
+public interface ProdutosRepository extends JpaRepository<Products, Integer>{
 
 }
