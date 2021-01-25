@@ -5,7 +5,6 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import javax.persistence.Table;
 
 @Entity
 public class Products {
@@ -31,18 +30,6 @@ public class Products {
 
 	@Column(name="imageUrl")
 	private String imageUrl;
-
-	
-
-	public Products(String name, String description, String price, String weight, String amount, String imageUrl) {
-		super();
-		this.name = name;
-		this.description = description;
-		this.price = price;
-		this.weight = weight;
-		this.amount = amount;
-		this.imageUrl = imageUrl;
-	}
 
 	public Integer getId() {
 		return id;

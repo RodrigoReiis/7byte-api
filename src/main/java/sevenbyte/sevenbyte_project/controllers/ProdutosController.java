@@ -21,7 +21,7 @@ public class ProdutosController {
 	private static final String LIST_URL = "/list";
 	private static final String CREATE_URL = "/create";
 	private static final String EDIT_URL = "/edit";
-	private static final String DELETE_URL = "/delete/{id}";
+	private static final String DELETE_URL = "/delete";
 
 	@Autowired
 	private ProdutosService produtosService;	
