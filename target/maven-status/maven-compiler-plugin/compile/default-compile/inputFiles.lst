@@ -2,5 +2,7 @@ C:\Desenv\7byte\7byte-api\src\main\java\sevenbyte\sevenbyte_project\services\Pro
 C:\Desenv\7byte\7byte-api\src\main\java\sevenbyte\sevenbyte_project\App.java
 C:\Desenv\7byte\7byte-api\src\main\java\sevenbyte\sevenbyte_project\BootDataApplication.java
 C:\Desenv\7byte\7byte-api\src\main\java\sevenbyte\sevenbyte_project\repository\ProdutosRepository.java
+C:\Desenv\7byte\7byte-api\src\main\java\sevenbyte\sevenbyte_project\entities\Users.java
 C:\Desenv\7byte\7byte-api\src\main\java\sevenbyte\sevenbyte_project\entities\Products.java
 C:\Desenv\7byte\7byte-api\src\main\java\sevenbyte\sevenbyte_project\controllers\ProdutosController.java
+C:\Desenv\7byte\7byte-api\src\main\java\sevenbyte\sevenbyte_project\controllers\SecurityWebConfig.java
